@@ -1,3 +1,11 @@
+/*
+ * Course: Mastering Bionic Arm Technology With Arduino
+ * Platform: Arduino
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Illustrative serial prints
 #include <string.h> // String helpers
 
@@ -61,6 +69,7 @@ void loop(void) { // Main loop
   delay(50); // Smooth motion delay
 }
 
+// Main routine: orchestrates the mastering bionic arm technology with arduino scenario
 int main(void) { // Entry point
   setup(); // Initialize
   for (int i = 0; i < 20; ++i) { // Simulate runtime cycles
